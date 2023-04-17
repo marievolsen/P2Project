@@ -1,17 +1,16 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.IO;
 using UnityEngine;
 
 public class ScheduleManager : MonoBehaviour
 {
     public GameObject taskPrefab;
     [SerializeField] private string[] tasks;
-
+    
     // Start is called before the first frame update
     void Start()
     {
+        //Based on https://forum.unity.com/threads/modify-the-width-and-height-of-recttransform.270993/
+        RectTransform rt = (RectTransform) this.GetComponent(typeof(RectTransform));
+        rt.sizeDelta = new Vector2(100,tasks.Length * 75 + 5);
         foreach (string s in tasks)
         {
             CreateTask(s);
