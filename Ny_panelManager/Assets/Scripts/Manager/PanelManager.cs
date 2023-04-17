@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
-using System.IO;
+
 public class PanelManager : Singleton<PanelManager>
 {
     public List<PanelModel> Panels;
@@ -50,7 +50,7 @@ public class PanelManager : Singleton<PanelManager>
     public int GetAmountPanelsInQueue()
     {
         return _listInstance.Count;
-        Debug.Log(_listInstance.Count);
+       
     }
 }
 
