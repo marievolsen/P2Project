@@ -126,13 +126,13 @@ MonoBehaviour:
       - m_Target: {fileID: 6901342030140021519}
         m_TargetAssemblyTypeName: TaskSlot, Assembly-CSharp
         m_MethodName: ChangeTitle
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: New Task 15
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &6901342030140021519
@@ -816,13 +816,13 @@ MonoBehaviour:
       - m_Target: {fileID: 1358634113105094738}
         m_TargetAssemblyTypeName: TaskSlot, Assembly-CSharp
         m_MethodName: ChangeTitle
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: New Task 5
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1358634113105094738
@@ -1101,13 +1101,13 @@ MonoBehaviour:
       - m_Target: {fileID: 7698121114986681392}
         m_TargetAssemblyTypeName: TaskSlot, Assembly-CSharp
         m_MethodName: ChangeTitle
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: New Task 12
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &7698121114986681392
@@ -1386,13 +1386,13 @@ MonoBehaviour:
       - m_Target: {fileID: 1530198721478207382}
         m_TargetAssemblyTypeName: TaskSlot, Assembly-CSharp
         m_MethodName: ChangeTitle
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: New Task 11
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1530198721478207382
@@ -1747,13 +1747,13 @@ MonoBehaviour:
       - m_Target: {fileID: 8729546646844683254}
         m_TargetAssemblyTypeName: TaskSlot, Assembly-CSharp
         m_MethodName: ChangeTitle
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: New Task 2
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &8729546646844683254
@@ -2032,13 +2032,13 @@ MonoBehaviour:
       - m_Target: {fileID: 7820862567724912581}
         m_TargetAssemblyTypeName: TaskSlot, Assembly-CSharp
         m_MethodName: ChangeTitle
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: New Task 10
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &7820862567724912581
@@ -2182,13 +2182,13 @@ MonoBehaviour:
       - m_Target: {fileID: 783229107600696948}
         m_TargetAssemblyTypeName: TaskSlot, Assembly-CSharp
         m_MethodName: ChangeTitle
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: New Task 3
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &783229107600696948
@@ -2467,13 +2467,13 @@ MonoBehaviour:
       - m_Target: {fileID: 594598882057158141}
         m_TargetAssemblyTypeName: TaskSlot, Assembly-CSharp
         m_MethodName: ChangeTitle
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: New Task 9
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &594598882057158141
@@ -2617,13 +2617,13 @@ MonoBehaviour:
       - m_Target: {fileID: 3699800362103962039}
         m_TargetAssemblyTypeName: TaskSlot, Assembly-CSharp
         m_MethodName: ChangeTitle
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: New Task 6
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &3699800362103962039
@@ -2767,13 +2767,13 @@ MonoBehaviour:
       - m_Target: {fileID: 8819543255809151982}
         m_TargetAssemblyTypeName: TaskSlot, Assembly-CSharp
         m_MethodName: ChangeTitle
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: New Task 14
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &8819543255809151982
@@ -3624,13 +3624,13 @@ MonoBehaviour:
       - m_Target: {fileID: 2355374201723791118}
         m_TargetAssemblyTypeName: TaskSlot, Assembly-CSharp
         m_MethodName: ChangeTitle
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: New Task 7
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2355374201723791118
@@ -3774,13 +3774,13 @@ MonoBehaviour:
       - m_Target: {fileID: 9111364773468087372}
         m_TargetAssemblyTypeName: TaskSlot, Assembly-CSharp
         m_MethodName: ChangeTitle
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: New Task 4
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &9111364773468087372
@@ -3825,7 +3825,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7704132129888328104}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -3924,13 +3924,13 @@ MonoBehaviour:
       - m_Target: {fileID: 1902742838609100988}
         m_TargetAssemblyTypeName: TaskSlot, Assembly-CSharp
         m_MethodName: ChangeTitle
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: New Task 1
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1902742838609100988
@@ -4074,13 +4074,13 @@ MonoBehaviour:
       - m_Target: {fileID: 2955249583794186208}
         m_TargetAssemblyTypeName: TaskSlot, Assembly-CSharp
         m_MethodName: ChangeTitle
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: New Task 13
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2955249583794186208
@@ -4224,13 +4224,13 @@ MonoBehaviour:
       - m_Target: {fileID: 6488575588726615295}
         m_TargetAssemblyTypeName: TaskSlot, Assembly-CSharp
         m_MethodName: ChangeTitle
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: New Task 8
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &6488575588726615295
