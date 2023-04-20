@@ -9,11 +9,11 @@ public class TekstRedigering : MonoBehaviour
     public string tekst;
     public GameObject inputField;
     public GameObject textDisplay;
-    public bool SaveTexts;
+  
     // Start is called before the first frame update
     void Start()
     {
-        tekst = PlayerPrefs.GetString("TextField");
+        tekst = PlayerPrefs.GetString("textField");
         textDisplay.GetComponent<Text>().text = tekst;
     }
 
