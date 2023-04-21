@@ -9,7 +9,6 @@ public class TaskSlot : MonoBehaviour
     [SerializeField] private TextMeshProUGUI taskSlotTitle;
     [SerializeField] private GameObject taskObject;
     
-
     public void Awake()
     {
         taskSlotTitle = GetComponentInChildren<TextMeshProUGUI>();
