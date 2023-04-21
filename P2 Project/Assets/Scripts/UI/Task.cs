@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
@@ -7,9 +5,14 @@ public class Task : MonoBehaviour
 {
     [SerializeField] private string title;
     [SerializeField] private TextMeshProUGUI titleText;
+    [SerializeField] private int taskNumber;
 
     private void Start()
     {
+        if (PlayerPrefs.GetString($"TaskText{taskNumber}") != "")
+        {
+            title = PlayerPrefs.GetString($"TaskText{taskNumber}");
+        }
         titleText = GetComponentInChildren<TextMeshProUGUI>();
     }
 
@@ -26,5 +29,6 @@ public class Task : MonoBehaviour
     public void SetTitle(string input)
     {
         title = input;
+        PlayerPrefs.SetString($"TaskText{taskNumber}", title);
     }
 }

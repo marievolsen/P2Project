@@ -8,13 +8,13 @@ public class TaskSlot : MonoBehaviour
     //Based on https://docs.unity3d.com/ScriptReference/GameObject.Find.html
     [SerializeField] private TextMeshProUGUI taskSlotTitle;
     [SerializeField] private GameObject taskObject;
-    [SerializeField] private string taskObjectName;
+    
 
     public void Awake()
     {
         taskSlotTitle = GetComponentInChildren<TextMeshProUGUI>();
         taskSlotTitle.text = gameObject.name;
-        taskObject = GameObject.Find(taskObjectName);
+        taskObject = GameObject.Find(this.gameObject.name);
     }
 
     public void ChangeTitle(string input)
