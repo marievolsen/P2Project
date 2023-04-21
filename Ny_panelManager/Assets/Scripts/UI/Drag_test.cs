@@ -8,14 +8,22 @@ public class Drag_test : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, 
     [SerializeField] private Canvas canvas;
 
     private RectTransform rectTransform;
+    private Rigidbody2D kevin;
+    private CanvasGroup canvasGroup;
+
 
     private void Awake()
     {
         rectTransform = GetComponent<RectTransform>();
+        kevin = GetComponent<Rigidbody2D>();
+        canvasGroup = GetComponent<CanvasGroup>();
     }
+
+
     public void OnBeginDrag(PointerEventData eventData)
     {
-        
+        canvasGroup.blocksRaycasts = false;
+        canvasGroup.alpha = .6f;
     }
 
     public void OnDrag(PointerEventData eventData)
@@ -30,7 +38,8 @@ public class Drag_test : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, 
 
     public void OnEndDrag(PointerEventData eventData)
     {
-        
+        canvasGroup.blocksRaycasts = true;
+        canvasGroup.alpha = 1f;
     }
 
     public void OnPointerDown(PointerEventData eventData)
