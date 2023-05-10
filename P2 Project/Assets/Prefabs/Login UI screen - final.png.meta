@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9fbbbb27471469840a5a3d68aa8d6c6a
+guid: 4f34677c439e1dc4084a8cb1650c8ba4
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,7 +117,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Login UI screen - 3_0
+      name: Login UI screen - final_0
       rect:
         serializedVersion: 2
         x: 937
@@ -125,20 +125,20 @@ TextureImporter:
         width: 1451
         height: 3095
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a53bac37131057948b954cef12da654d
-      internalID: 608943058
+      spriteID: aae1cac25ed460d4dbedb4ec4ebcade4
+      internalID: -1311245686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Login UI screen - 3_1
+      name: Login UI screen - final_1
       rect:
         serializedVersion: 2
         x: 2749
@@ -146,20 +146,20 @@ TextureImporter:
         width: 1450
         height: 3096
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e181370a41c75d4d9b6921e46783193
-      internalID: -1426136897
+      spriteID: 6081ffed9bd0ec34ab8de36fc83d74aa
+      internalID: -1736643855
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Login UI screen - 3_2
+      name: Login UI screen - final_2
       rect:
         serializedVersion: 2
         x: 4585
@@ -167,20 +167,20 @@ TextureImporter:
         width: 1455
         height: 2817
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7dec55223ac1ae7498be4e51b5d5e0a2
-      internalID: 2043358966
+      spriteID: 2ac15bc1fe3adb846a829bba7e88a918
+      internalID: -2010049044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Login UI screen - 3_3
+      name: Login UI screen - final_3
       rect:
         serializedVersion: 2
         x: 6719
@@ -188,20 +188,20 @@ TextureImporter:
         width: 703
         height: 703
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5d2eb5e9657c9340bdc8d06cb51c315
-      internalID: 1011678538
+      spriteID: 7607d9e70904515458c776257d7b5853
+      internalID: -1961504267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Login UI screen - 3_4
+      name: Login UI screen - final_4
       rect:
         serializedVersion: 2
         x: 8159
@@ -209,20 +209,20 @@ TextureImporter:
         width: 718
         height: 703
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d594959fcb5ca543a6add8780736c61
-      internalID: 2038395651
+      spriteID: f67cf18b661ddc7488d49f89365ffb8e
+      internalID: -400638698
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Login UI screen - 3_5
+      name: Login UI screen - final_5
       rect:
         serializedVersion: 2
         x: 6738
@@ -230,20 +230,20 @@ TextureImporter:
         width: 708
         height: 601
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b279398f70bef448bd4eb65c5b5d6bd
-      internalID: -1962484122
+      spriteID: bbc92fc4b2e114f4db7f6f2db47415f9
+      internalID: -1005771538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Login UI screen - 3_6
+      name: Login UI screen - final_6
       rect:
         serializedVersion: 2
         x: 8184
@@ -251,20 +251,20 @@ TextureImporter:
         width: 1001
         height: 918
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3a4764b28fd21447a463295a54ee28c
-      internalID: -1534327096
+      spriteID: 59540ab40adaa8545842d93004364c17
+      internalID: -1565611816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Login UI screen - 3_7
+      name: Login UI screen - final_7
       rect:
         serializedVersion: 2
         x: 6724
@@ -272,62 +272,83 @@ TextureImporter:
         width: 883
         height: 747
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e61d88cb92eed1a4ab0b625897cf08a3
-      internalID: -1569521396
+      spriteID: c998700c6b207c34eb999ef60c0f71a6
+      internalID: -585407748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Login UI screen - 3_8
+      name: Login UI screen - final_8
       rect:
         serializedVersion: 2
-        x: 4780
-        y: 3247
-        width: 703
-        height: 703
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a5a6f4c5a15acd4d8b9466d53202eb4
-      internalID: -1059378577
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Login UI screen - 3_9
-      rect:
-        serializedVersion: 2
-        x: 6187
-        y: 3813
-        width: 131
+        x: 4087
+        y: 3901
+        width: 137
         height: 137
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d64d06da2e663248934230c833f22ff
-      internalID: -1133302443
+      spriteID: af7e78674f995f441a03cdb8e7b7f0b1
+      internalID: -1553741667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Login UI screen - 3_10
+      name: Login UI screen - final_9
+      rect:
+        serializedVersion: 2
+        x: 5864
+        y: 1538
+        width: 1446
+        height: 3096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15d5bcafaa1fad40b813d56d3789d15
+      internalID: 850433597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - final_10
+      rect:
+        serializedVersion: 2
+        x: 7964
+        y: 1636
+        width: 1450
+        height: 3095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26597b593da93c42b70d05593e5ac50
+      internalID: -1013352423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - final_11
       rect:
         serializedVersion: 2
         x: 1294
@@ -335,20 +356,20 @@ TextureImporter:
         width: 796
         height: 201
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a362ca1bf2178bc4eac63982b679fd48
-      internalID: 1725344960
+      spriteID: a26b182966ec96146942adbbf53157ac
+      internalID: 1940728613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Login UI screen - 3_11
+      name: Login UI screen - final_12
       rect:
         serializedVersion: 2
         x: 2187
@@ -356,20 +377,20 @@ TextureImporter:
         width: 943
         height: 351
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1628f212688f9cd42bb421d9bdf458fa
-      internalID: -152738206
+      spriteID: bcd4cc5000503c84a8b9d8438f94ff13
+      internalID: 789459341
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Login UI screen - 3_12
+      name: Login UI screen - final_13
       rect:
         serializedVersion: 2
         x: 1270
@@ -377,20 +398,20 @@ TextureImporter:
         width: 844
         height: 249
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3bf1654082cc01f46b18a71017ff26b8
-      internalID: 1228970032
+      spriteID: 5728505a055698e419ea9331bae5e7df
+      internalID: -536986585
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Login UI screen - 3_13
+      name: Login UI screen - final_14
       rect:
         serializedVersion: 2
         x: 2261
@@ -398,20 +419,20 @@ TextureImporter:
         width: 796
         height: 200
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ee4cc1b0f8ea4f47a98f703f1a6ac4e
-      internalID: 1704362516
+      spriteID: 7d6ab81ada344ac408e998e7cf32e2f9
+      internalID: -986870070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Login UI screen - 3_14
+      name: Login UI screen - final_15
       rect:
         serializedVersion: 2
         x: 3291
@@ -419,20 +440,20 @@ TextureImporter:
         width: 942
         height: 351
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdc295622d8ab6746a2fc368a3c5d38b
-      internalID: 1146214037
+      spriteID: 76379253b616f45438cb45dc86d14748
+      internalID: -596957409
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Login UI screen - 3_15
+      name: Login UI screen - final_16
       rect:
         serializedVersion: 2
         x: 1128
@@ -440,56 +461,56 @@ TextureImporter:
         width: 537
         height: 253
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96dcc8dfba6f9064cbffa02cf6db3d1e
-      internalID: -1021156227
+      spriteID: 33ab03da9d1689a469e7ac5678e5567b
+      internalID: 1879496423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Login UI screen - 3_16
+      name: Login UI screen - final_17
       rect:
         serializedVersion: 2
-        x: 4937
-        y: 2422
-        width: 502
+        x: 2109
+        y: 2070
+        width: 508
         height: 508
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24081f922bb0e6247aad8186d3a2a1a6
-      internalID: 741663774
+      spriteID: 4a4de1599e36217469245b82093ea246
+      internalID: 939839059
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Login UI screen - 3_17
+      name: Login UI screen - final_18
       rect:
         serializedVersion: 2
-        x: 4921
-        y: 1942
-        width: 522
-        height: 133
+        x: 2102
+        y: 1584
+        width: 520
+        height: 148
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 289d62b6eb7a40c4fba06bfa26142738
-      internalID: 1776562829
+      spriteID: 9561b0bb135b6614e85686b3e6319402
+      internalID: -524456372
       vertices: []
       indices: 
       edges: []
@@ -505,29 +526,32 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Login UI screen - 3_0: 608943058
-      Login UI screen - 3_1: -1426136897
-      Login UI screen - 3_10: 1725344960
-      Login UI screen - 3_11: -152738206
-      Login UI screen - 3_12: 1228970032
-      Login UI screen - 3_13: 1704362516
-      Login UI screen - 3_14: 1146214037
-      Login UI screen - 3_15: -1021156227
-      Login UI screen - 3_16: 741663774
-      Login UI screen - 3_17: 1776562829
-      Login UI screen - 3_18: -286079567
-      Login UI screen - 3_19: -364437435
-      Login UI screen - 3_2: 2043358966
-      Login UI screen - 3_20: 116887472
-      Login UI screen - 3_21: -460233006
-      Login UI screen - 3_22: -1361397074
-      Login UI screen - 3_3: 1011678538
-      Login UI screen - 3_4: 2038395651
-      Login UI screen - 3_5: -1962484122
-      Login UI screen - 3_6: -1534327096
-      Login UI screen - 3_7: -1569521396
-      Login UI screen - 3_8: -1059378577
-      Login UI screen - 3_9: -1133302443
+      Login UI screen - final_0: -1311245686
+      Login UI screen - final_1: -1736643855
+      Login UI screen - final_10: -1013352423
+      Login UI screen - final_11: 1940728613
+      Login UI screen - final_12: 789459341
+      Login UI screen - final_13: -536986585
+      Login UI screen - final_14: -986870070
+      Login UI screen - final_15: -596957409
+      Login UI screen - final_16: 1879496423
+      Login UI screen - final_17: 939839059
+      Login UI screen - final_18: -524456372
+      Login UI screen - final_19: -87088467
+      Login UI screen - final_2: -2010049044
+      Login UI screen - final_20: 636478625
+      Login UI screen - final_21: -700944965
+      Login UI screen - final_22: 169551087
+      Login UI screen - final_23: -917483608
+      Login UI screen - final_24: -1994319122
+      Login UI screen - final_25: 397957572
+      Login UI screen - final_3: -1961504267
+      Login UI screen - final_4: -400638698
+      Login UI screen - final_5: -1005771538
+      Login UI screen - final_6: -1565611816
+      Login UI screen - final_7: -585407748
+      Login UI screen - final_8: -1553741667
+      Login UI screen - final_9: 850433597
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
