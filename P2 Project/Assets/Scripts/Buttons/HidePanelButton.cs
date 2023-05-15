@@ -14,6 +14,10 @@ public class HidePanelButton : MonoBehaviour
 
     public void DoHidePanel()
     {
-        _panelManager.HideLastPanel();
+
+     
+           _panelManager.HideLastPanel(); 
+        
+        
     }
 }
