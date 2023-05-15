@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: 5919ce8e2576df44d876ca9d06dea6bf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Login UI screen - endelig_0
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 7876
+        width: 1304
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9a87f5e3c058143bcfb8f251730dd6
+      internalID: 1055423551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_1
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 4600
+        width: 1451
+        height: 3095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961c6547a1e226d45a11cfb9ea4c6d10
+      internalID: -161197888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_2
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 4575
+        width: 1450
+        height: 3096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e029a2bc21ce6f54bb14822a0f3659a3
+      internalID: -1426852525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_3
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 4854
+        width: 1455
+        height: 2817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b0c60bbf0a3e64ea35a7ef749ec8c6
+      internalID: -1273273465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_4
+      rect:
+        serializedVersion: 2
+        x: 6719
+        y: 6602
+        width: 703
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7e8d10382632547861cafba445cd3e
+      internalID: 143169387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_5
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 6572
+        width: 718
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba4f2a8dd5546a46ab612909321cc0f
+      internalID: -1639871084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_6
+      rect:
+        serializedVersion: 2
+        x: 6738
+        y: 5830
+        width: 708
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884ffd1649ed98348965e090fabf5405
+      internalID: 566719851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_7
+      rect:
+        serializedVersion: 2
+        x: 8184
+        y: 5332
+        width: 1001
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8f8582809bf5f41b7d8b92fe607624
+      internalID: -120315816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_8
+      rect:
+        serializedVersion: 2
+        x: 6724
+        y: 4912
+        width: 883
+        height: 747
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f0646ab3435c142a928d0c0dafdb22
+      internalID: 1025100334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_9
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 4268
+        width: 137
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53157dbca7613c4497a2b2db20e852a
+      internalID: -296595862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_10
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 4248
+        width: 131
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d65352040c1ebc4291232b1f397ca54
+      internalID: 744836312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_11
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 4077
+        width: 942
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f880f87a4cee734eb93bf1275eba933
+      internalID: -2046803215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3755
+        width: 791
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f239c7b247bb3e4fabad3e8aba88c2e
+      internalID: -1620697993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_13
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 3701
+        width: 942
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978bdb88709ebee4eb6ef8645ecdc828
+      internalID: 1889847121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_14
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 1562
+        width: 1451
+        height: 2598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36e3b9d040c8294a913723c7f55808e
+      internalID: 1470466169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_15
+      rect:
+        serializedVersion: 2
+        x: 4976
+        y: 1562
+        width: 1445
+        height: 2598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34435515f384e1e469b7b9d59f352c8b
+      internalID: -1840385169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_16
+      rect:
+        serializedVersion: 2
+        x: 6636
+        y: 1558
+        width: 1445
+        height: 2602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c9953fdf0046c4392082a27181e85a
+      internalID: -28084047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_17
+      rect:
+        serializedVersion: 2
+        x: 8257
+        y: 1558
+        width: 1445
+        height: 2602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc86dd764b06484c8939f38ecadcd24
+      internalID: 1118228016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 3408
+        width: 845
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877427f59a6248d489c87d9d4d8fb612
+      internalID: 1277426933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_19
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 3394
+        width: 791
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c47996b656b744ba8398165ac63333
+      internalID: -834597161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2954
+        width: 538
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b290be8ca7cf284aae8cdb18f2665b2
+      internalID: 1174431283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_21
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 3159
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f545891dabd6ad41a2329f737561419
+      internalID: -2064263133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_22
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 2378
+        width: 508
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b42de5f676bee45b945d287d9e3681
+      internalID: 19101567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_23
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 2539
+        width: 699
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c27c158c90da84bbfb414e5d26de7b
+      internalID: 494396998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_24
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1934
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804eaf4990f515c4a9ec792da89b867c
+      internalID: -451173503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_25
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1934
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a0c64ae04f8d74685c24f825887b7d
+      internalID: 793798468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_26
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1934
+        width: 117
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009295e624f34b24fb25c77fdef289f6
+      internalID: 1301863116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_27
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1904
+        width: 78
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1eccc02c1d4ec489f57484c510fb9d
+      internalID: 1218765692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_28
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1934
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f188b027be6a1e44a989c3f2f09be9de
+      internalID: -1453125611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login UI screen - endelig_29
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1934
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c20b069b2ad8d54e92811a43e6db0e9
+      internalID: 2004688501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Login UI screen - endelig_0: 1055423551
+      Login UI screen - endelig_1: -161197888
+      Login UI screen - endelig_10: 744836312
+      Login UI screen - endelig_11: -2046803215
+      Login UI screen - endelig_12: -1620697993
+      Login UI screen - endelig_13: 1889847121
+      Login UI screen - endelig_14: 1470466169
+      Login UI screen - endelig_15: -1840385169
+      Login UI screen - endelig_16: -28084047
+      Login UI screen - endelig_17: 1118228016
+      Login UI screen - endelig_18: 1277426933
+      Login UI screen - endelig_19: -834597161
+      Login UI screen - endelig_2: -1426852525
+      Login UI screen - endelig_20: 1174431283
+      Login UI screen - endelig_21: -2064263133
+      Login UI screen - endelig_22: 19101567
+      Login UI screen - endelig_23: 494396998
+      Login UI screen - endelig_24: -451173503
+      Login UI screen - endelig_25: 793798468
+      Login UI screen - endelig_26: 1301863116
+      Login UI screen - endelig_27: 1218765692
+      Login UI screen - endelig_28: -1453125611
+      Login UI screen - endelig_29: 2004688501
+      Login UI screen - endelig_3: -1273273465
+      Login UI screen - endelig_4: 143169387
+      Login UI screen - endelig_5: -1639871084
+      Login UI screen - endelig_6: 566719851
+      Login UI screen - endelig_7: -120315816
+      Login UI screen - endelig_8: 1025100334
+      Login UI screen - endelig_9: -296595862
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
