@@ -12,7 +12,7 @@ public class DateTime : MonoBehaviour
     public TextMeshProUGUI currentdateText;
     public TextMeshProUGUI currentmonthText;
     public TextMeshProUGUI calendarmonthText;
-    public TextMeshProUGUI currentyearText;
+    public TextMeshProUGUI calendaryearText;
     public TextMeshProUGUI timeText;
 
     void FixedUpdate()
@@ -20,14 +20,15 @@ public class DateTime : MonoBehaviour
         string date = System.DateTime.UtcNow.ToLocalTime().ToString("dd-MM-yyyy");
         string currentdate = System.DateTime.UtcNow.ToLocalTime().ToString("dddd, dd. MMMM");
         string curentmonth = System.DateTime.UtcNow.ToLocalTime().ToString("MMMM");
-        string calendarmonth = System.DateTime.UtcNow.ToLocalTime().ToString("MMMM");
-        string currentyear = System.DateTime.UtcNow.ToLocalTime().ToString("yyyy");
         string time = System.DateTime.UtcNow.ToLocalTime().ToString("HH:mm");
+
+        string calendarmonth = System.DateTime.UtcNow.ToLocalTime().ToString("MMMM");
+        string calendaryear = System.DateTime.UtcNow.ToLocalTime().ToString("yyyy");
 
         dateText.text = date;
         currentdateText.text = currentdate;
         currentmonthText.text = curentmonth;
-        currentyearText.text = currentyear;
+        calendaryearText.text = calendaryear;
         timeText.text = time;
         calendarmonthText.text = calendarmonth;
 
