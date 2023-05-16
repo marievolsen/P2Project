@@ -11,6 +11,10 @@ public class NewTask : MonoBehaviour
 
     private void Start()
     {
+        if (PlayerPrefs.HasKey($"Task{number}"))
+        {
+            SetTitle(PlayerPrefs.GetString($"Task{number}"));
+        }
         titleText = GetComponentInChildren<TextMeshProUGUI>();
     }
 
@@ -31,6 +35,7 @@ public class NewTask : MonoBehaviour
     public void SetTitle(string input)
     {
         title = input;
+        PlayerPrefs.SetString($"Task{number}", title);
     }
 
     public void SetTaskIndex()
