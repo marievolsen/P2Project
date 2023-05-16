@@ -12,6 +12,10 @@ public class Tekst : MonoBehaviour
         LoadUsername();
     }
 
+    private void Update()
+    {
+        usernameDisplay.text = PlayerPrefs.GetString(PlayerPrefsKey);
+    }
     private void LoadUsername()
     {
         if (PlayerPrefs.HasKey(PlayerPrefsKey))
