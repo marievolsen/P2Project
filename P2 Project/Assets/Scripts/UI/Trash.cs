@@ -6,8 +6,6 @@ public class Trash : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D collision)
     { 
-
-        //collision.gameObject.CompareTag("Ikon"))
         
             Destroy(collision.gameObject);
 

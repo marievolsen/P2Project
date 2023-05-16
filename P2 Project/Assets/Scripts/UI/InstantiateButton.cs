@@ -38,10 +38,10 @@ public class InstantiateButton : MonoBehaviour
         Instantiate();
     }
 
-
     private void Instantiate()
     {
-        Instantiate(Picture, GameObject.Find(Dagskema).transform);
+        GameObject newObj = Instantiate(Picture);
+        newObj.transform.SetParent(GameObject.Find("Content").transform);
     }
 }
 
