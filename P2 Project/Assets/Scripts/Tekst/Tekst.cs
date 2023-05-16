@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 public class Tekst : MonoBehaviour
 {
-    private InputField usernameInput;
+    public InputField usernameInput;
     public Text usernameDisplay;
     private const string PlayerPrefsKey = "Username";
 
@@ -17,15 +17,16 @@ public class Tekst : MonoBehaviour
         string username = usernameInput.text;
         usernameDisplay.text = username;
         PlayerPrefs.SetString(PlayerPrefsKey, username);
+        PlayerPrefs.Save();
     }
 
     private void LoadUsername()
     {
-        //if (PlayerPrefs.HasKey(PlayerPrefsKey))
-        
+        if (PlayerPrefs.HasKey(PlayerPrefsKey))
+        {
             string username = PlayerPrefs.GetString(PlayerPrefsKey);
             usernameInput.text = username;
             usernameDisplay.text = username;
-        
+        }
     }
 }
