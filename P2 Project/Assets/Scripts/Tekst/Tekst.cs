@@ -12,14 +12,6 @@ public class Tekst : MonoBehaviour
         LoadUsername();
     }
 
-    public void SaveUsername()
-    {
-        string username = usernameInput.text;
-        usernameDisplay.text = username;
-        PlayerPrefs.SetString(PlayerPrefsKey, username);
-        PlayerPrefs.Save();
-    }
-
     private void LoadUsername()
     {
         if (PlayerPrefs.HasKey(PlayerPrefsKey))
@@ -28,5 +20,12 @@ public class Tekst : MonoBehaviour
             usernameInput.text = username;
             usernameDisplay.text = username;
         }
+    }
+    public void SaveUsername()
+    {
+        string username = usernameInput.text;
+        usernameDisplay.text = username;
+        PlayerPrefs.SetString(PlayerPrefsKey, username);
+        PlayerPrefs.Save();
     }
 }

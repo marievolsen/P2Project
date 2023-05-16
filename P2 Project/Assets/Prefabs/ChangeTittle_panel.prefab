@@ -35,7 +35,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0.5}
+  m_AnchoredPosition: {x: 96, y: 3}
   m_SizeDelta: {x: -20, y: -13}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3385149400532305969
@@ -79,7 +79,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: erihnfhiokenierfnwn
+  m_Text: Rediger....
 --- !u!1 &3971372376865331452
 GameObject:
   m_ObjectHideFlags: 0
@@ -303,7 +303,7 @@ MonoBehaviour:
   m_CaretColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_CustomCaretColor: 0
   m_SelectionColor: {r: 0.65882355, g: 0.80784315, b: 1, a: 0.7529412}
-  m_Text: erihnfhiokenierfnwn
+  m_Text: Rediger....
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
@@ -472,7 +472,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1335074000507762723
 RectTransform:
   m_ObjectHideFlags: 0
@@ -576,14 +576,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: Tekst, Assembly-CSharp
-        m_MethodName: SaveUsername
-        m_Mode: 1
+      - m_Target: {fileID: 8327470638325037489}
+        m_TargetAssemblyTypeName: TekstRedigering, Assembly-CSharp
+        m_MethodName: SendTextToTaskSlot
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 1
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -851,8 +851,6 @@ MonoBehaviour:
   inputField: {fileID: 4378830488530283350}
   taskSlotObjects:
   - {fileID: 6739628085295681096}
-  - {fileID: 0}
-  - {fileID: 0}
 --- !u!1001 &3403942114171692963
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -972,7 +970,8 @@ PrefabInstance:
       propertyPath: taskNumber
       value: 1
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8795421395953932068, guid: 3a81cdc2e5ed0864e844d7fec670088b, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 3a81cdc2e5ed0864e844d7fec670088b, type: 3}
 --- !u!1 &6739628085295681096 stripped
 GameObject:
@@ -1023,10 +1022,10 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 8397394006332454742}
-        m_TargetAssemblyTypeName: ShowPanelButton, Assembly-CSharp
-        m_MethodName: DoShowPanel
-        m_Mode: 1
+      - m_Target: {fileID: 8327470638325037489}
+        m_TargetAssemblyTypeName: TekstRedigering, Assembly-CSharp
+        m_MethodName: SendTextToTaskSlot
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -1035,7 +1034,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
---- !u!114 &8397394006332454742
+--- !u!114 &6066905028442365817
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1044,10 +1043,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 6739628085295681096}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6ee4998fa385d5841b35041dc4004346, type: 3}
+  m_Script: {fileID: 11500000, guid: c737ecb243ec4754ea7eb69433f9ac22, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PanelId: ChangeTittle_panel
+  taskSlotTitle: {fileID: 0}
+  taskObject: {fileID: 0}
 --- !u!224 &6739628085295681097 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 8267134850620303850, guid: 3a81cdc2e5ed0864e844d7fec670088b, type: 3}
