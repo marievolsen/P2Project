@@ -43,7 +43,7 @@ public class InstantiateButton : MonoBehaviour
         GameObject newObj = Instantiate(Picture);
         Transform parentTransform = GameObject.Find("Content").transform;
         newObj.transform.SetParent(parentTransform);
-        newObj.transform.position = new Vector3((float)714.643127, (float)1784.979, 0);
+        newObj.transform.position = new Vector3(524, 1390, 0);
     }
 }
 
