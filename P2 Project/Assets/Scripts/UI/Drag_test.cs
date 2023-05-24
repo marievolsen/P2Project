@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class Drag_test : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, IEndDragHandler, IDropHandler, IDragHandler
+public class Drag_test : MonoBehaviour, IBeginDragHandler, IEndDragHandler, IDragHandler
 {
     [SerializeField] private Canvas canvas1;
     private static Canvas Canvas;
@@ -54,21 +54,9 @@ public class Drag_test : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, 
         rectTransform.anchoredPosition += eventData.delta / canvas.scaleFactor;
     }
 
-    public void OnDrop(PointerEventData eventData)
-    {
-       
-    }
-
     public void OnEndDrag(PointerEventData eventData)
     {
         canvasGroup.blocksRaycasts = true;
         canvasGroup.alpha = 1f;
     }
-
-    public void OnPointerDown(PointerEventData eventData)
-    {
-        
-    }
-
-   
 }
