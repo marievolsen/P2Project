@@ -5,7 +5,6 @@ using UnityEngine;
 
 public class TaskSlot : MonoBehaviour
 {
-    //Based on https://docs.unity3d.com/ScriptReference/GameObject.Find.html
     [SerializeField] private TextMeshProUGUI taskSlotTitle;
     [SerializeField] private GameObject taskObject;
 
